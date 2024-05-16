@@ -27,6 +27,7 @@ pip install git+https://github.com/jusiro/FLAIR.git
 ```
 
 ## Usage
+The code below is also present in `example.py`
 
 ```
 from PIL import Image

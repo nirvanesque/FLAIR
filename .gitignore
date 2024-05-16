@@ -1,1 +1,5 @@
 .idea
+__pycache__/
+flair/__pycache__/
+flair/modeling/__pycache__/
+flair/modeling/flair_pretrained_weights
